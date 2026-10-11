@@ -1,0 +1,5 @@
+.galeri-img {
+    object-fit: cover;
+    height: 100%;
+    min-height: 120px;
+}
